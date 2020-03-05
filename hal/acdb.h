@@ -21,7 +21,7 @@
 #define ACDB_H
 
 #include <stdbool.h>
-#include <linux/msm_audio_calibration.h>
+#include <include/msm_audio_calibration.h>
 
 #define MAX_CVD_VERSION_STRING_SIZE 100
 #define LIB_ACDB_LOADER "libacdbloader.so"
